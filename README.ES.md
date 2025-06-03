@@ -7,6 +7,9 @@ Para la parte del taller que solicita configurar dispositivos USB, se hace uso d
 -Discos extraíbles: denegar acceso de lectura.
 -Discos extraíbles: denegar acceso de escritura.
 
+Ver imagen "1.png" 
+
 Sin embargo, no fue posible bloquear los dispositivos USB en dos tipos de usuarios disponibles.
 
-Por lo tanto se ingresa al editor de registros y se bloquea el el registro que permite inicar USB's dentro de windows 10.
+Por lo tanto se ingresa al editor de registros y se bloquea el el registro que permite inicar USB's dentro de windows 10. 
+Ver imagen "2.png"
